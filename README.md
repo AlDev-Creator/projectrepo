@@ -6,3 +6,5 @@ Module 2 - Assignment
 Task 1 - Initialise a Git Repository and Make Initial Commit
 
 # This edit is inside 'main' branch
+
+# Edited this file inside Remote Repository, in 'collaborator' branch
