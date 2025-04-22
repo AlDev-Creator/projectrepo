@@ -4,3 +4,5 @@ Done by: NG Eric Purnama Utama
 Full Stack AI - NUS
 Module 2 - Assignment
 Task 1 - Initialise a Git Repository and Make Initial Commit
+
+# This edit is inside 'main' branch
